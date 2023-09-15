@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahesh-Gore
--    I have completed my BCA(science)
+-   M.C.A.
 - 📫 How to reach me Email :- mahesh17gore@gmail.com 
 
 <!---
